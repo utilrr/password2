@@ -27,8 +27,14 @@ Image below displays password with 128 characters incorporateing lowercase, numb
 
 
 ## Links
-###Deployed Website 
+### Deployed Website 
 https://utilrr.github.io/password2/
 
 ### Repository
 https://github.com/utilrr/password2
+
+
+## Acessibility Report
+
+![Screen Shot 2022-02-05 at 2 19 36 PM](https://user-images.githubusercontent.com/25494815/152655812-72f8f511-f658-4991-b878-3bd397e85ca4.png)
+
