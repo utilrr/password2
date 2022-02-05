@@ -14,7 +14,8 @@ To create working javaScript code to generate random passwords using the supplie
 6. The password is displayed on the field in the webpage.
 
 
-### Screenshots of successful password examples from the page
+### Screen Shots of successful password examples from the page
+
 Image below displays password with 30 characters incorporateing all four character types.
 ![Chars _30_all_types](https://user-images.githubusercontent.com/25494815/151584025-492aa981-f6aa-44ae-9b38-f6165dbda7ac.png)
 
@@ -25,6 +26,9 @@ Image below displays password with 128 characters incorporateing lowercase, numb
 ![Chars_128_lower_numbers_symbols](https://user-images.githubusercontent.com/25494815/151584065-01ed2636-c536-41a8-a9d5-65a511b7afb9.png)
 
 
-https://github.com/utilrr/password2
+## Links
+###Deployed Website 
+https://utilrr.github.io/password2/
 
-Your site is ready to be published at https://utilrr.github.io/password2/
+### Repository
+https://github.com/utilrr/password2
